@@ -282,7 +282,7 @@ Tranqui, puede ser un poco abrumador leer todo esto.
 
 - Date una pasada por el Notion y andá repasando conceptos.
 - Hacé una lista de las cosas que tiene que hacer la app e intentá asociarlas a las cosas que conocés.
-- Por cualquier cosa, podés consultar a joel@doctadevs.com o en el foro de discusión de este repositorio.
+- Por cualquier cosa, podés consultar a joel@doctadevs.com o en el [foro de discusión de este repositorio](https://github.com/DoctaDevs/DD-TrabajoFinal-Frontend2020/discussions).
 
 ## Recursos
 
